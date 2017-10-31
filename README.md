@@ -14,4 +14,6 @@ Weaher App Demo build with react native fork from sofish's Weather App(https://g
 2. Go to the project folder and install dependencies by npm. `npm install`
 3. Link `react-active-svg` by `react-native link`
 
+### Preview
 
+![Screenshot](/preview.png)
