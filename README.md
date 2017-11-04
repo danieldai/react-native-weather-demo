@@ -7,6 +7,7 @@ Weaher App Demo build with react native fork from sofish's Weather App(https://g
 1. JavaScrit syntax upgraded to ES6
 2. Upgrade react, react-native, react-native-svg and d3 to latest version
 3. react-native-overlay is not used anymore.
+4. support both Adnroid and iOS
 
 ### Run it
 
